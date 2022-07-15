@@ -1,0 +1,35 @@
+Hozz létre egy adatbázist a helyi szerveren, neve legyen: webshopdatabase
+
+Improtáld a webshopdatabase file-t az adatbázisba. 
+
+
+
+Belépés:
+
+1. Minden mező kitöltésére kötelez.
+
+2. Egyezteti a bevitt adatokat az adatbázissal.
+
+3. Admin/User jogosultságot ellnőriz és a megfelelő oldalra irányít.
+
+----------------------------------------------------------------------------
+
+Regisztráció:
+
+1. Minden mező kitöltésére kötelez.
+
+2. Ellenőrzi, hogy a két jelszómező azonos-e.
+
+3. Ellenőrzi, hogy létezik-e ilyen nevű felhasználó vagy admin a renedszerben.
+	-Amennyiben nem, megtörténik a regisztráció és bejelentkezhetsz.
+
+----------------------------------------------------------------------------
+
+Admin jog:
+
+1. Árukészlet-táblák olvasása, írása és törlése.
+
+2. Admin vagy user jogosultsági szint megadása vagy elvétele.
+
+
+----------------------------------------------------------------------------
